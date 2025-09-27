@@ -53,4 +53,4 @@
 
 ---
 
-<sub align="center">Minimal, elegant, and always learning.</sub>
+<sub align="center">Always learning.</sub>
