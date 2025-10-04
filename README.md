@@ -1,4 +1,4 @@
-# sanzidsadik03-
+# sanzidsadik03
 <!-- Classy Aesthetic GitHub Profile README for Sanzid Sadik -->
 
 <h1 align="center">Sanzid Sadik</h1>
