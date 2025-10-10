@@ -15,7 +15,7 @@
 ### 🗝️ Featured Project
 
 **[Keyring-Weavers](https://github.com/sanzidsadik03/Keyring-Weavers)**  
-<sub>Secure, efficient, and beautifully designed keyring management for everyone.</sub>
+<sub>A product showcase website for my own business.</sub>
 
 ---
 
@@ -24,7 +24,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" alt="CSS3"/>
 </p>
@@ -44,14 +43,13 @@
 ### 📌 Now
 
 - Innovating on **Keyring-Weavers**  
-- Exploring elegant UI/UX for security tools  
-- Learning advanced JavaScript techniques
+- Learning SQA
 
 ---
 
 ### ✨ Quote
 
-> "Simplicity is the ultimate sophistication." — Leonardo da Vinci
+> LOVE WHAT YOU LOVE BEFORE LIFE TEACHES YOU TO LOVE WHAT IS LOST
 
 ---
 
