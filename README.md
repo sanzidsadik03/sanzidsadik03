@@ -1,4 +1,4 @@
-<!-- Aesthetic GitHub Profile README for Sanzid Sadik -->
+<!-- Cool & Aesthetic GitHub Profile README for Sanzid Sadik -->
 
 <h1 align="center" style="font-size:2em;">
   Sanzid Sadik
@@ -13,6 +13,10 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/133243594?v=4" width="120" style="border-radius:50%;" alt="Sanzid Sadik's avatar">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="220" alt="Cool sunglasses meme GIF" />
 </p>
 
 ---
