@@ -42,8 +42,11 @@
 
 <p align="center">
   <a href="https://github.com/sanzidsadik03"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="24"/></a>
-  <a href="https://linkedin.com/in/sanzidsadik03"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="24"/></a>
-  <a href="mailto:sanzidsadik03@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="24"/></a>
+  <a href="https://www.linkedin.com/in/sanzid-sadik-4a606b228"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="24"/></a>
+  <a href="mailto:sasanzidsadik03@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="24"/></a>
+  <a href="https://www.facebook.com/sanzu.raw/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" height="24"/></a>
+  <a href="https://www.instagram.com/sanzid_sadik/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="24"/></a>
+  
 </p>
 
 ---
