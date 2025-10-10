@@ -1,10 +1,15 @@
-# sanzidsadik03
-<!-- Classy Aesthetic GitHub Profile README for Sanzid Sadik -->
+<!-- Aesthetic GitHub Profile README for Sanzid Sadik -->
 
-<h1 align="center">Sanzid Sadik</h1>
+<h1 align="center" style="font-size:2em;">
+  Sanzid Sadik
+  <br>
+  <svg height="6" width="220" style="display:block; margin:0 auto;">
+    <rect width="220" height="6" rx="3" fill="#6C63FF">
+      <animate attributeName="width" from="0" to="220" dur="1.2s" fill="freeze"/>
+    </rect>
+  </svg>
+</h1>
 <p align="center" style="font-size:1.2em;">Building elegant digital experiences</p>
-
----
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/133243594?v=4" width="120" style="border-radius:50%;" alt="Sanzid Sadik's avatar">
@@ -47,10 +52,6 @@
 
 ---
 
-### ✨ Quote
-
-> LOVE WHAT YOU LOVE BEFORE LIFE TEACHES YOU TO LOVE WHAT IS LOST
-
----
-
-<sub align="center">Minimal, elegant, and always learning.</sub>
+<p align="center" style="font-size:1.1em;">
+  Minimal, elegant, and always learning.
+</p>
