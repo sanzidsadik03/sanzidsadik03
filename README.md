@@ -3,15 +3,13 @@
 <h1 align="center" style="font-size:2em;">
   Sanzid Sadik
   <br>
-  <!-- SVG animation below (won't render on GitHub, but left here for completeness) -->
+
   <svg height="6" width="220" style="display:block; margin:0 auto;">
     <rect width="220" height="6" rx="3" fill="#6C63FF">
       <animate attributeName="width" from="0" to="220" dur="1.2s" fill="freeze"/>
     </rect>
   </svg>
 </h1>
-<p align="center" style="font-size:1.2em;">Building elegant digital experiences</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="220" alt="Cool sunglasses meme GIF" />
 </p>
